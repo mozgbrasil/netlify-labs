@@ -27,8 +27,8 @@ yarn-error.log*
 .env.build
 
 #
-#.netlify
-#netlify.toml
+.netlify
+netlify.toml
 
 #
 .vercel
