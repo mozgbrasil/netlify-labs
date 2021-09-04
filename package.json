@@ -6,7 +6,9 @@
   "author": "mozgbrasil <mozgbrasil@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node netlify/functions/express.js"
+    "start": "node netlify/functions/express.js",
+    "dev": "echo '👇️dev'",
+    "build": "echo '👇️build'"
   },
   "dependencies": {
     "express": "^4.17.1",
